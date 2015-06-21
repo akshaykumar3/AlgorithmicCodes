@@ -20,7 +20,7 @@ using namespace std;
 	return (j==0?i:gcd(j,i%j));
 }*/
 long long a = 0;
-int b[26];
+long long b[26];
 int main()
 {
 	string s;
